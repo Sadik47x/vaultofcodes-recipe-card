@@ -38,7 +38,7 @@ To design a creative and interactive recipe card that improves user engagement w
 🚀 Live Demo
 
 👉 View Project
- (replace with GitHub Pages link)
+ https://sadik47x.github.io/vaultofcodes-recipe-card
 
 📷 Preview
 
